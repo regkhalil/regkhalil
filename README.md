@@ -37,7 +37,7 @@ Design and deployment of a data pipeline to analyze download trends of public do
 * **Infrastructure:** Fully containerized in Docker, orchestrated with Airflow, and visualized through Kibana
 
 
-#### ⚙️ [Predictive Maintenance AI Modeling]
+#### ⚙️ Predictive Maintenance AI Modeling
 Development of an AI solution to anticipate the clogging of gas turbine air filters based on industrial sensor data (in collaboration with SAI - AXILAB).
 * **Approach:** Exploratory time series analysis and experimentation with unsupervised models (PCA, autoencoders) to generate health indicators and detect anomalies
 
