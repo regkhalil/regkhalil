@@ -11,20 +11,20 @@ My background allows me to treat AI not just as isolated models, but as scalable
 
 
 <div align="center">
-<!-- Data Engineering & MLOps -->
-<img src="https://skillicons.dev/icons?i=airflow,dbt,spark,mlflow,docker,kubernetes,git" alt="Data Engineering & MLOps" />
-<br/>
-<!-- AI & Machine Learning -->
-<img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,pandas,numpy" alt="AI & Machine Learning" />
-<br/>
-<!-- Backend & Full-Stack -->
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,react,vue,streamlit,cs" alt="Backend & Full-Stack" />
-<br/>
-<!-- Databases -->
-<img src="https://skillicons.dev/icons?i=postgres,mysql,duckdb,influxdb,elasticsearch" alt="Databases" />
-<br/>
-<!-- Languages -->
-<img src="https://skillicons.dev/icons?i=python,cs,js,bash" alt="Languages" />
+	<b>Data Engineering & MLOps</b><br>
+	<img src="https://skillicons.dev/icons?i=airflow,dbt,spark,mlflow,docker,kubernetes,git" alt="Data Engineering & MLOps" />
+	<br><br>
+	<b>AI & Machine Learning</b><br>
+	<img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,pandas,numpy" alt="AI & Machine Learning" />
+	<br><br>
+	<b>Backend & Full-Stack</b><br>
+	<img src="https://skillicons.dev/icons?i=python,fastapi,django,react,vue,streamlit,cs" alt="Backend & Full-Stack" />
+	<br><br>
+	<b>Databases</b><br>
+	<img src="https://skillicons.dev/icons?i=postgres,mysql,duckdb,influxdb,elasticsearch" alt="Databases" />
+	<br><br>
+	<b>Languages</b><br>
+	<img src="https://skillicons.dev/icons?i=python,cs,js,bash" alt="Languages" />
 </div>
 
 **Data Engineering & MLOps:** Airflow, dbt, Spark, MLFlow, Docker, Kubernetes/Kind, CI/CD, Git  
