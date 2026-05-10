@@ -7,26 +7,6 @@ My background allows me to treat AI not just as isolated models, but as scalable
 
 ### 🛠️ Technical Stack
 
-
-
-
-<div align="center">
-	<b>Data Engineering & MLOps</b><br>
-	<img src="https://skillicons.dev/icons?i=airflow,dbt,spark,mlflow,docker,kubernetes,git" alt="Data Engineering & MLOps" />
-	<br><br>
-	<b>AI & Machine Learning</b><br>
-	<img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,pandas,numpy" alt="AI & Machine Learning" />
-	<br><br>
-	<b>Backend & Full-Stack</b><br>
-	<img src="https://skillicons.dev/icons?i=python,fastapi,django,react,vue,streamlit,cs" alt="Backend & Full-Stack" />
-	<br><br>
-	<b>Databases</b><br>
-	<img src="https://skillicons.dev/icons?i=postgres,mysql,duckdb,influxdb,elasticsearch" alt="Databases" />
-	<br><br>
-	<b>Languages</b><br>
-	<img src="https://skillicons.dev/icons?i=python,cs,js,bash" alt="Languages" />
-</div>
-
 **Data Engineering & MLOps:** Airflow, dbt, Spark, MLFlow, Docker, Kubernetes/Kind, CI/CD, Git  
 **AI & Machine Learning:** PyTorch, Scikit-Learn, Pandas, Numpy, CrewAI, Ollama, LangChain, ChromaDB  
 **Backend & Full-Stack:** ASP.NET Core, Django, FastAPI, React.js, Vue.js, Streamlit  
